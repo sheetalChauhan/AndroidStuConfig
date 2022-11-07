@@ -14,6 +14,14 @@
           <option name="url" value="https://github.com/localizely/flutter-gen-l10n-example.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/djshah17/Flutter-Localization-Sample.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/podcoder/flutter_localization.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Mobile Programming" />
