@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="Webview" />
     <option name="nonFavorites">
       <list>
+        <option value="Webview" />
+        <option value="we" />
         <option value="package:mine level:ERROR " />
         <option value="package:mine level:error " />
         <option value="package:mine " />
@@ -21,8 +23,6 @@
         <option value="package:mine -line~:onFlyCompress -line~:RxComputationTh level:ERROR" />
         <option value="package:mine -line~:onFlyCompress -line~:RxComputationTh level:ERROR line~:convertBitmap" />
         <option value="package:mine -line~:onFlyCompress -line~:RxComputationTh level:ERROR line~:CameraActivity" />
-        <option value="package:mine -line~:onFlyCompress -line~:RxComputationTh level:ERROR line~:listener" />
-        <option value="package:mine -line~:onFlyCompress -line~:RxComputationTh level:ERROR " />
       </list>
     </option>
   </component>
