@@ -38,6 +38,10 @@
           <option name="url" value="https://github.com/yasukotelin/ext_storage.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/joutvhu/open_file_plus.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Mobile Programming" />
