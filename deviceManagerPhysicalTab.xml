@@ -8,7 +8,7 @@
             <value value="C6T4N7LJTCCYMFP7" />
           </Key>
         </key>
-        <name value="OPPO CPH2001" />
+        <name value="Device" />
         <target value="Android 11.0" />
         <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
@@ -19,9 +19,8 @@
             <value value="1382269864000B9" />
           </Key>
         </key>
-        <name value="vivo V2141" />
-        <target value="Android Tiramisu" />
-        <api value="androidversion:33:null:null:true" />
+        <name value="Device" />
+        <target value="Android 1.0" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
