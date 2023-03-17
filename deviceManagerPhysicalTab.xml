@@ -104,7 +104,7 @@
             <value value="R9ZRB00K1AV" />
           </Key>
         </key>
-        <name value="samsung SM-A226B" />
+        <name value="samsung Device" />
         <target value="Android 13.0" />
         <api value="androidversion:33:null:null:true" />
       </PhysicalDevice>
