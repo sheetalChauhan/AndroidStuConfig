@@ -126,9 +126,8 @@
             <value value="RZ8M42RMTTH" />
           </Key>
         </key>
-        <name value="samsung SM-A205F" />
-        <target value="Android 11.0" />
-        <api value="androidversion:30:null:null:true" />
+        <name value="Device" />
+        <target value="Android 1.0" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
