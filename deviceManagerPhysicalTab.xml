@@ -5,23 +5,23 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="R9ZRB00K1AV" />
-          </Key>
-        </key>
-        <name value="samsung SM-A226B" />
-        <target value="Android 13.0" />
-        <api value="androidversion:33:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
             <value value="C6T4N7LJTCCYMFP7" />
           </Key>
         </key>
         <name value="OPPO CPH2001" />
         <target value="Android 11.0" />
         <api value="androidversion:30:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="R9ZRB00K1AV" />
+          </Key>
+        </key>
+        <name value="samsung SM-A226B" />
+        <target value="Android 13.0" />
+        <api value="androidversion:33:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
